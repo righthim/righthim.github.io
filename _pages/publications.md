@@ -1,6 +1,6 @@
 ---
-permalink: /publifications/
-title: "Publifications"
+permalink: /publications/
+title: "Publications"
 layout: single
 use_math: true
 ---

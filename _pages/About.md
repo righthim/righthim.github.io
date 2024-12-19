@@ -6,11 +6,13 @@ use_math: true
 ---
 
 __Research interests__
+
 Differential privacy, Trustworthy AI, Synthetic data, federated learning, High-dimensional statistics.
 
 I am interested in implementing a privacy protecting machine learning algorithm and evaluating their performance. Also, the characteristic phenomena occuring in high-dimensional data analysis is another interest.
 
 __Hobby__
+
 I am currently interested in mystery novel and science fiction.
 
 __Prizes__

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Differential privacy"
 date: 2024-12-29 23:30:00
 categories: [Posts]

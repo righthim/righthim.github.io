@@ -7,6 +7,7 @@ categories: [Posts]
 tags: [DP]
 excerpt: "(1) Definition."
 draft: true
+use_math: true
 ---
 
 The differential privacy is a concept suggested by Cynthia Dwork, Frank McSherry, Kobbi Nissim and Adam Smith who won G&ouml;del Prize in 2017 for the contribution. There exists many criteria of the privacy or algorithms that are said to be protecting privacy. However, the differential privacy is superior to those for laying a rigorous foundations for privacy.

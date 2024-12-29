@@ -1,11 +1,22 @@
 /* Custom CSS for Enlarging Post Width and Styling the Post Title */
 
-/* Container - Enlarging the width of the posts */
-.container {
-  max-width: 90%;  /* Adjust width of the post container */
-  width: 100%;
-  margin: 0 auto; /* Center-align */
+/* In assets/css/post_custom.css */
+
+/* Define the post-container class */
+.post-container {
+  width: 80%;            /* Adjust the width to 80% of the screen */
+  max-width: 1200px;     /* Optional: Set a maximum width */
+  margin: 0 auto;        /* Center the container */
+  padding: 0 20px;       /* Optional: Add some padding for spacing */
 }
+
+/* Optional: If you want to style individual elements */
+.post-container h1,
+.post-container h2,
+.post-container p {
+  margin-bottom: 1.5em;  /* Space out the headings and paragraphs */
+}
+
 
 /* Post title styling */
 .post-title {

@@ -1,6 +1,11 @@
 /* Custom CSS for Enlarging Post Width and Styling the Post Title */
 
 /* In assets/css/post_custom.css */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;  /* Include padding and border in element's width and height */
+}
 
 /* Define the post-container class */
 .post-container {

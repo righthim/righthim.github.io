@@ -1,10 +1,8 @@
 ---
+layout: post
 title: "Differential privacy"
+date: 2024-12-29 12:00:00 +0000
+categories: [Posts]
+tags: [DP]
 excerpt: "(1) Definition."
-categories:
-  - Posts
-tags:
-  - DP
-date:               "%Y-%m-%d %H:%M
-last_modified_at:   "%Y-%m-%d %H:%M
 ---

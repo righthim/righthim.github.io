@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Bonwoo Lee"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "PhD student in KAIST."
+  bio              : "PhD student at KAIST."
   location         : #"Homepage in school website."
   email            : "righthim@kaist.ac.kr"
   links:

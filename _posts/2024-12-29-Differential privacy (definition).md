@@ -1,7 +1,7 @@
 ---
 layout: posts
 title: "Differential privacy"
-date: 2024-12-29 23:30:00
+date: 2024-12-29 23:30:00 +0900
 categories: [Posts]
 tags: [DP]
 excerpt: "(1) Definition."

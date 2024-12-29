@@ -19,7 +19,7 @@
 
 
 /* Post title styling */
-.post-title {
+.page__title {
   font-family: 'Arial', sans-serif;  /* Change the font of the title (can be customized) */
   font-weight: bold;  /* Make the title bold */
   font-size: 2.5em;   /* Increase the font size */

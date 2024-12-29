@@ -2,31 +2,6 @@
 
 /* In assets/css/post_custom.css */
 
-/* Define the post-container class */
-.post-container {
-  box-sizing: border-box; /* Include padding and border in width/height */
-  width: 90%;             /* 90% of the parent (archive) width */
-  max-width: 1200px;      /* Optional: Max width for large screens */
-  margin: 0 auto;         /* Center the container within the archive */
-  padding: 0 20px;        /* Optional: Padding inside the container */
-}
-.page__title {
-  display: block;          /* Make the title behave like a block element */
-  width: 100%;             /* Ensure the title takes full width */
-  max-width: 1200px;       /* Optional: Set max width */
-  margin: 0 auto;          /* Center the title */
-  padding: 0;              /* Reset any padding */
-  font-size: 2.5em;        /* Adjust font size */
-  font-family: 'Arial', sans-serif;  /* Adjust the font */
-  border-bottom: 2px solid #ccc;   /* Optional: Add a border under the title */
-}
-
-/* Optional: If you want to style individual elements */
-.post-container h1,
-.post-container h2,
-.post-container p {
-  margin-bottom: 1.5em;  /* Space out the headings and paragraphs */
-}
 
 
 /* Post title styling */

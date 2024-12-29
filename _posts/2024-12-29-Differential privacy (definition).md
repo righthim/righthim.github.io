@@ -6,6 +6,10 @@ categories: [Posts]
 tags: [DP]
 excerpt: "(1) Definition."
 ---
+
+<h2 class="post-title">{{ page.title }}</h2>
+<hr> <!-- This is the line under the title -->
+
 ## Introduction
 
 This is the content of my new post. Here, you can add text, images, code blocks, and more.

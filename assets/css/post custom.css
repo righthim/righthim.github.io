@@ -19,9 +19,9 @@
 
 /* Post title styling */
 .page__title {
-  font-family: 'Arial', sans-serif;  /* Change the font of the title (can be customized) */
+  font-family: 'Georgia', serif;  /* Change the font of the title (can be customized) */
   font-weight: bold;  /* Make the title bold */
-  font-size: 2.5em;   /* Increase the font size */
+  font-size: 5.5em;   /* Increase the font size */
   color: #333;        /* Title color */
   margin-bottom: 10px; /* Space below the title */
   border-bottom: 2px solid #ccc;  /* Horizontal line below the title */

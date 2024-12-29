@@ -2,13 +2,6 @@
 
 /* In assets/css/post_custom.css */
 
-/* Ensure the archive container takes up the full width of the screen */
-.archive {
-  width: 100%;              /* Set to 100% width */
-  max-width: 100%;          /* Allow full width expansion */
-  padding: 0;               /* Optional: Remove any internal padding */
-  margin: 0 auto;           /* Optional: Center the content */
-}
 /* Define the post-container class */
 .post-container {
   width: 80%;            /* Adjust the width to 80% of the screen */

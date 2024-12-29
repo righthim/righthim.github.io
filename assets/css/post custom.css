@@ -8,6 +8,16 @@
   margin: 0 auto;        /* Center the container */
   padding: 0 20px;       /* Optional: Add some padding for spacing */
 }
+.page__title {
+  display: block;          /* Make the title behave like a block element */
+  width: 100%;             /* Ensure the title takes full width */
+  max-width: 1200px;       /* Optional: Set max width */
+  margin: 0 auto;          /* Center the title */
+  padding: 0;              /* Reset any padding */
+  font-size: 2.5em;        /* Adjust font size */
+  font-family: 'Arial', sans-serif;  /* Adjust the font */
+  border-bottom: 2px solid #ccc;   /* Optional: Add a border under the title */
+}
 
 /* Optional: If you want to style individual elements */
 .post-container h1,

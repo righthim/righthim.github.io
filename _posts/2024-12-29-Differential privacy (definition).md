@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: "Differential privac1y"
+title: "Differential privacy"
 date: 2024-12-29 23:30:00 +0900
 categories: [Posts]
 tags: [DP]

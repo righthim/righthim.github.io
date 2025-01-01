@@ -1,11 +1,5 @@
 # main links
 main:
-#  - title: "Publications"
-#    url: /publications/
-    
-#  - title: "About"
-#    url: /About/
-
   - title: "Posts"
     url: /Posts/
   # - title: "About"

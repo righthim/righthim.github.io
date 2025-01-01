@@ -1,7 +1,7 @@
 ---
 layout: posts
 classes: wide
-title: "Differential privacy"
+title: "Differential privacy(ongoing)"
 date: 2024-12-29 23:30:00 +0900
 categories: [Posts]
 tags: [DP, privacy]

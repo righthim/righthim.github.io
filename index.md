@@ -25,7 +25,9 @@ Advances in Neural Information Processing Systems 37 (NeurIPS 2024)
 __TA__
 
 2023 Fall. Mathematical Statistics, Applied analysis.
+
 2023 Spring. Linear algebra, Probability and statistics.
+
 2023 Fall. Calculus II.
 
 __Prizes__

@@ -4,7 +4,7 @@ author_profile: true
 ---
 __Research interests__
 
-Differential privacy, Trustworthy machine learning, Synthetic data, federated learning, High-dimensional statistics.
+Differential privacy, Synthetic data, High-dimensional statistics, kernel methods.
 
 I am interested in implementing a privacy protecting machine learning algorithm and evaluating their performance. Also, the unique phenomena occuring in high-dimensional data analysis is another interest.
 

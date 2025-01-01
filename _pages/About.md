@@ -1,5 +1,5 @@
 ---
-permalink: /About/
+permalink: /
 title: "About me"
 layout: splash
 use_math: true

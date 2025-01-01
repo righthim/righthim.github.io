@@ -1,7 +1,7 @@
 ---
 permalink: /About/
 title: "About me"
-layout: single
+layout: splash
 use_math: true
 ---
 

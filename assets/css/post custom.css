@@ -17,7 +17,7 @@
 
 /* Body content font styling */
 body {
-  font-family: 'Garamond', serif;  /* Change the font of the body (can be customized) */
+  font-family: 'Georgia', serif;  /* Change the font of the body (can be customized) */
   font-size: 21px; /* Increase the font size for better readability */
   line-height: 1.6;  /* Line height for readability */
   color: #333;       /* Text color */

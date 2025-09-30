@@ -12,15 +12,23 @@ __Hobby__
 
 I am currently interested in mystery novel and science fiction. My current favorite mystery novel is the museum of tricks by the seiichirō Ōyama.
 
+__Preprints__
+1. [Optimal differentially private kernel learning with random projection](https://arxiv.org/abs/2507.17544)
+Bonwoo Lee, Jeongyoun Ahn, Cheolwoo Park
+
 __Publications__
 
 1. [Minimax Risks and Optimal Procedures for Estimation under Functional Local Differential Privacy](https://proceedings.neurips.cc/paper_files/paper/2023/hash/b4dde7f1bc45bf9c0fda8db8f272b758-Abstract-Conference.html)
 Bonwoo Lee, Jeongyoun Ahn, Cheolwoo Park
 Advances in Neural Information Processing Systems 36 (NeurIPS 2023)
 
-2. Differential Privacy in Scalable General Kernel Learning via $K$-means Nystr&#246;m Random Features
+2. [Differential Privacy in Scalable General Kernel Learning via $K$-means Nystr&#246;m Random Features](https://proceedings.neurips.cc/paper_files/paper/2024/hash/257c140d25d1f7fc10f8ae5e17296299-Abstract-Conference.html)
 Bonwoo Lee, Jeongyoun Ahn, Cheolwoo Park
 Advances in Neural Information Processing Systems 37 (NeurIPS 2024)
+
+3. Locally Optimal Private Sampling: Beyond the Global Minimax
+Hrad Ghoukasian, Bonwoo Lee, Shahab Asoodeh
+Advances in Neural Information Processing Systems 38 (NeurIPS 2025)
 
 __TA__
 

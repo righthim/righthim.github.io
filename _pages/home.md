@@ -42,3 +42,19 @@ __Prizes__
 2023 Fall Korean mathematical society Poster session top prize
 
 2023 Fall URP (Undergraduate Research Program) excellence prize
+
+---
+layout: page
+title: Home
+---
+
+## Posts
+
+<ul>
+{% for post in site.posts %}
+  <li>
+    <a href="{{ post.url }}">{{ post.title }}</a>
+    <small>({{ post.date | date: "%Y-%m-%d" }})</small>
+  </li>
+{% endfor %}
+</ul>

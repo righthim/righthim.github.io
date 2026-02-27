@@ -40,6 +40,8 @@ __TA__
 
 __Prizes__
 
+Selected as Top Reviewer in NeurIPS 2025
+
 2024 KAIST Q-Day Special Student Award
 
 2024 KAIST Graduate Student Outstanding Paper Awards

@@ -13,7 +13,7 @@ I am interested in implementing a privacy protecting machine learning algorithm 
 
 __Hobby__
 
-I am currently interested in mystery novel and science fiction. My current favorite mystery novel is the museum of tricks by the seiichirō Ōyama.
+I am currently interested in mystery novel and science fiction. My current favorite mystery novel is the the red museum by Seiichirō Ōyama.
 
 __Publications__
 

@@ -26,7 +26,7 @@ Advances in Neural Information Processing Systems 36 (NeurIPS 2023)
 Bonwoo Lee, Jeongyoun Ahn, Cheolwoo Park
 Advances in Neural Information Processing Systems 37 (NeurIPS 2024)
 
-3. Locally Optimal Private Sampling: Beyond the Global Minimax
+3. [Locally Optimal Private Sampling: Beyond the Global Minimax](https://proceedings.neurips.cc/paper_files/paper/2025/hash/e7dea87261a804e223586d0b4136cc6c-Abstract-Conference.html)
 Hrad Ghoukasian, Bonwoo Lee, Shahab Asoodeh
 Advances in Neural Information Processing Systems 38 (NeurIPS 2025)
 
@@ -39,6 +39,8 @@ __TA__
 2023 Fall. Calculus II.
 
 __Prizes__
+
+Selected as Top Reviewer in NeurIPS 2026
 
 Selected as Top Reviewer in NeurIPS 2025
 

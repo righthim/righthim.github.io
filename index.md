@@ -15,6 +15,8 @@ I am currently interested in mystery novel and science fiction. My current favor
 __Preprints__
 1. [Optimal differentially private kernel learning with random projection](https://arxiv.org/abs/2507.17544)
 Bonwoo Lee, Jeongyoun Ahn, Cheolwoo Park
+2. [Minimax Wasserstein Testing under Differential Privacy](https://arxiv.org/abs/2610.14432)
+Bonwoo Lee, Ilmun Kim, Cheolwoo Park
 
 __Publications__
 

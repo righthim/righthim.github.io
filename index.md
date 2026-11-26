@@ -10,7 +10,7 @@ I am interested in implementing a privacy protecting machine learning algorithm 
 
 __Hobby__
 
-I am currently interested in mystery novel and science fiction. My current favorite mystery novel is the museum of tricks by the seiichirō Ōyama.
+I am currently interested in mystery novel and science fiction. My current favorite mystery novel is the red museum by the seiichirō Ōyama.
 
 __Preprints__
 1. [Optimal differentially private kernel learning with random projection](https://arxiv.org/abs/2507.17544)
